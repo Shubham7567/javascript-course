@@ -52,7 +52,4 @@ Contributions are welcome! If you find a missing topic or want to enhance explan
 5. Push to the branch: `git push origin feature-new-topic`
 6. Open a pull request.
 
-## 📜 License
-This repository is open-source and available under the [MIT License](LICENSE).
-
 Happy Coding! 🚀

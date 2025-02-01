@@ -55,8 +55,3 @@ Contributions are welcome! If you find a missing topic or want to enhance explan
 4. Commit your changes: `git commit -m 'Added explanation for XYZ'`
 5. Push to the branch: `git push origin feature-new-topic`
 6. Open a pull request.
-
-## 📜 License
-This repository is open-source and available under the [MIT License](LICENSE).
-
-Happy Coding! 🚀

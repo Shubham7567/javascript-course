@@ -14,18 +14,14 @@ JavaScript is one of the most widely used programming languages, essential for w
 ## 📚 What’s Inside?
 This repository covers a wide range of fundamental JavaScript topics, including but not limited to:
 
-- **Variables and Data Types**
-- **Operators and Expressions**
-- **Functions and Scope**
-- **Objects and Arrays**
-- **ES6+ Features (Arrow Functions, Template Literals, Destructuring, etc.)**
-- **Closures and Hoisting**
-- **Prototypes and Inheritance**
-- **Asynchronous JavaScript (Promises, Async/Await, Callbacks)**
-- **Event Loop and Concurrency**
-- **Error Handling and Debugging**
-- **Modules and Import/Export**
-- **DOM Manipulation and Events**
+- **Variables and Data Types** (let, const, var, undefined, null)
+- **Operators and Expressions** (Arithmetic, Logical, Comparison, Assignment)
+- **Functions and Scope** (Function declarations, Arrow functions, Block & Global scope)
+- **Objects and Arrays** (Properties, Methods, Iteration)
+- **Closures and Hoisting** (Understanding Execution Context)
+- **Loops and Iteration** (For, While, Do-While, forEach, map, filter, reduce)
+- **Type Conversion and Coercion** (Implicit and Explicit Conversion)
+- **Equality Comparisons** (== vs ===, Truthy and Falsy values)
 
 ## 🎯 Who Can Benefit?
 This repository is beneficial for:
@@ -55,3 +51,8 @@ Contributions are welcome! If you find a missing topic or want to enhance explan
 4. Commit your changes: `git commit -m 'Added explanation for XYZ'`
 5. Push to the branch: `git push origin feature-new-topic`
 6. Open a pull request.
+
+## 📜 License
+This repository is open-source and available under the [MIT License](LICENSE).
+
+Happy Coding! 🚀
